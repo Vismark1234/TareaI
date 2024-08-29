@@ -1,0 +1,49 @@
+*
+{
+	margin: 0px; 
+}
+/* ahora estos bloques estan organizados en columnas    */
+.a1
+{
+	background-color: black;
+	padding: 20px;
+	margin: 10px;
+	
+
+}
+.a2{
+	background-color:  #873600 ;
+	padding: 10px;
+	margin: 8px;
+}
+.a3{
+	background-color:  #935116 ;
+	padding: 10px;
+	margin: 8px;
+}
+.a4{
+	background-color:  #9c640c ;
+	padding: 10px;
+	margin: 8px;
+}
+.a5{
+	background-color:  #9a7d0a ;
+	padding: 10px;
+	margin: 8px;
+}
+.a6{
+	background-color:  #1d8348 ;
+	padding: 10px;
+	margin: 8px;
+}
+.a7{
+	background-color:  #5dade2  ;
+	padding: 10px;
+	margin: 8px;
+}
+
+.nieto{
+	background-color: blue;
+	padding: 5px;
+	margin: 50px;
+}
